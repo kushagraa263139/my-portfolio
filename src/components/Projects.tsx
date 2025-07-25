@@ -70,8 +70,8 @@ const Projects = () => {
         "Responsive design across all devices",
         "Modern UI/UX with smooth transitions"
       ],
-      demoLink: "#",
-      githubLink: "#",
+      demoLink: "https://my-portfolio-gdt7.vercel.app/",
+      githubLink: "https://github.com/kushagraa263139/my-portfolio",
       image: "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=600&h=400&fit=crop"
     }
   ];
